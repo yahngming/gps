@@ -1,2 +1,1 @@
-# gps
-GPS tracks
+# GPS tracks
